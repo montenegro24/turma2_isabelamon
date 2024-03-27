@@ -1,13 +1,13 @@
-h1 {color: blue;
+h1 {color: black;
 }
 
 
 h2 {color: black;
 }
 
-h3 {color: blue;
+h3 {color: ;
 }
-h3 {color: indigo;}
+h3 {color: black;}
 
 h4 {color: blue;
 }
@@ -16,17 +16,18 @@ h1 {text-align: center;
 }
 h2 {text-align: right;
 }
-h3 {border-color: black;
+h3 {text-align: left;
+    border-color: blue;
     border-style: solid;
     border-width: 5px;
 }
 h3 { text-align: right;
-    border-color: black;
+    border-color: navy;
     border-style: solid;
     border-width: 5px;
 }
 h4 { text-align: left;
-    border-color: black;
+    border-color: mediumblue;
     border-style: solid;
     border-width: 5px;
 }
